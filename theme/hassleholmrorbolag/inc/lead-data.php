@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Hässleholm Rörbolag',
+	'bransch'        => 'VVS-montör',
 	'telefon'        => '073-749 06 72',
 	'telefon_tel'    => '+46737490672',
 	'ort'            => 'Norra Sandby',
